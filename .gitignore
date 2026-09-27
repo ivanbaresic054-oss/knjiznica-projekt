@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Tajni podaci / konfiguracija
+.env
+
+# Vue / Node
+node_modules/
+dist/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
